@@ -1,0 +1,14 @@
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\bin\Debug\net8.0\HomeTask(27.02).exe
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\bin\Debug\net8.0\HomeTask(27.02).deps.json
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\bin\Debug\net8.0\HomeTask(27.02).runtimeconfig.json
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\bin\Debug\net8.0\HomeTask(27.02).dll
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\bin\Debug\net8.0\HomeTask(27.02).pdb
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).AssemblyInfoInputs.cache
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).AssemblyInfo.cs
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).csproj.CoreCompileInputs.cache
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).dll
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\refint\HomeTask(27.02).dll
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).pdb
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\HomeTask(27.02).genruntimeconfig.cache
+C:\Users\Alisho\Desktop\C# course\Week3\Day2(27.02)\HomeTask(27.02)\obj\Debug\net8.0\ref\HomeTask(27.02).dll
